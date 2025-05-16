@@ -1,0 +1,5 @@
+Enter a word or phrase: kanaka
+❌ It's not a palindrome.
+PS C:\Users\KSEAB\Desktop\amrutha> python palindrome.py
+Enter a word or phrase: malayalam
+✅ It's a palindrome!
